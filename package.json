@@ -1,0 +1,16 @@
+{
+  "name": "api-test-refactor-challenge",
+  "version": "1.0.0",
+  "description": "API test refactoring challenge for potential hires at HE",
+  "main": "index.js",
+  "author": "Hotel Engine Quality Services Team",
+  "license": "UNLICENSED",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "jest": "^29.7.0"
+  }
+}
